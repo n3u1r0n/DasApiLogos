@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3934.6011"
+   height="3582.6748"
+   viewBox="0 0 1041.0298 947.9161"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="inkscape.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="81.946068"
+       y="155.73187"
+       width="23.361891"
+       height="21.984341"
+       id="rect3776" />
+    <marker
+       style="overflow:visible"
+       id="marker1445"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="SquareM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         id="path1443" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1435"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="SquareM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         id="path1433" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1413"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="SquareM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M -5,-5 V 5 H 5 V -5 Z"
+         id="path1411" />
+    </marker>
+    <rect
+       x="86.967422"
+       y="136.50928"
+       width="89.167984"
+       height="18.801352"
+       id="rect1125" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#9f9f9f"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.16"
+     inkscape:cx="1988.1776"
+     inkscape:cy="2399.0047"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1664"
+     inkscape:window-height="1376"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="false"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(-9.0411339,-50.898781)" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.0411339,-50.898781)">
+    <text
+       xml:space="preserve"
+       style="font-size:10.2405px;line-height:1.25;font-family:'Amiri Quran';-inkscape-font-specification:'Amiri Quran';stroke-width:0.256013"
+       x="96.725716"
+       y="155.56406"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         x="96.725716"
+         y="155.56406"
+         style="stroke-width:0.256013" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56.3872px;line-height:1.25;font-family:'Amiri Quran';-inkscape-font-specification:'Amiri Quran';stroke-width:1.40969"
+       x="91.996307"
+       y="89.506462"
+       id="text1437"><tspan
+         sodipodi:role="line"
+         id="tspan1435"
+         x="91.996307"
+         y="89.506462"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:1.40969" /></text>
+    <text
+       xml:space="preserve"
+       id="text1123"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Amiri Quran';-inkscape-font-specification:'Amiri Quran';white-space:pre;shape-inside:url(#rect1125);"
+       transform="matrix(0.96760945,0,0,0.96760945,0.09675277,0.17022113)" />
+    <text
+       xml:space="preserve"
+       id="text3774"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Amiri Quran';-inkscape-font-specification:'Amiri Quran';white-space:pre;shape-inside:url(#rect3776);"
+       transform="matrix(0.96760945,0,0,0.96760945,0.09675277,0.17022113)" />
+    <g
+       id="g4611">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:61.2265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4756-6"
+         width="445.87057"
+         height="56.870888"
+         x="39.654385"
+         y="81.512032" />
+      <g
+         id="g1556"
+         transform="translate(-12.700002)">
+        <text
+           xml:space="preserve"
+           style="font-size:79.763px;line-height:1.25;font-family:'Amiri Quran';-inkscape-font-specification:'Amiri Quran';fill:#212529;fill-opacity:1;stroke:none;stroke-width:1.99407;stroke-opacity:1"
+           x="194.98816"
+           y="137.54539"
+           id="text921-9-3-4-4"><tspan
+             sodipodi:role="line"
+             id="tspan919-1-6-2-2"
+             x="194.98816"
+             y="137.54539"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:79.763px;font-family:'Bai Jamjuree';-inkscape-font-specification:'Bai Jamjuree, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#212529;fill-opacity:1;stroke:none;stroke-width:1.99407;stroke-opacity:1">Das API</tspan></text>
+        <g
+           id="g1367">
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 89.614635,83.293519 65.890011,109.94737 89.614635,136.60131"
+             id="path883-1-2-2-1-6-9-6" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 143.11613,83.293519 23.72461,26.653911 -23.72461,26.65394"
+             id="path883-2-4-28-9-0-1-6-4" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 103.46676,144.36391 129.26402,75.531041"
+             id="path1216-0-97-3-6-5-1-1" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 89.614635,83.293519 65.890011,109.94737 89.614635,136.60131"
+             id="path883-1-2-1-3-5-0-28" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 143.11613,83.293519 23.72461,26.653911 -23.72461,26.65394"
+             id="path883-2-4-28-94-2-4-4-89" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 103.46676,144.36391 129.26402,75.531041"
+             id="path1216-0-97-7-0-7-2-2" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1783">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:61.2265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4756"
+         width="445.87057"
+         height="56.870888"
+         x="39.654385"
+         y="206.14244" />
+      <g
+         id="g1545">
+        <text
+           xml:space="preserve"
+           style="font-size:79.763px;line-height:1.25;font-family:'Amiri Quran';-inkscape-font-specification:'Amiri Quran';fill:#212529;fill-opacity:1;stroke-width:1.99407"
+           x="103.68358"
+           y="262.17581"
+           id="text921-9-3-4-5-8"><tspan
+             sodipodi:role="line"
+             id="tspan919-1-6-2-5-8"
+             x="103.68358"
+             y="262.17581"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:79.763px;font-family:'Bai Jamjuree';-inkscape-font-specification:'Bai Jamjuree, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#212529;fill-opacity:1;stroke-width:1.99407">Das API</tspan></text>
+        <g
+           id="g1399">
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 84.573946,207.92397 60.849321,234.57786 84.573946,261.2318"
+             id="path883-1-2-2-1-6-9-2-8" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 84.573946,207.92397 60.849321,234.57786 84.573946,261.2318"
+             id="path883-1-2-1-3-5-0-2-3" />
+        </g>
+        <g
+           id="g1395">
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 440.60541,207.92394 23.72463,26.65395 -23.72463,26.65391"
+             id="path883-2-4-28-9-0-1-6-9-3" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 400.95605,268.99434 25.79727,-68.83287"
+             id="path1216-0-97-3-6-5-1-0-3" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 440.60541,207.92394 23.72463,26.65395 -23.72463,26.65391"
+             id="path883-2-4-28-94-2-4-4-8-3" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 400.95605,268.99434 25.79727,-68.83287"
+             id="path1216-0-97-7-0-7-2-3-8" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1796">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:33.8834;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4339-47"
+         width="158.20218"
+         height="158.20218"
+         x="66.843933"
+         y="321.66498" />
+      <g
+         id="g1601"
+         transform="translate(0,3.1519478)">
+        <text
+           xml:space="preserve"
+           style="font-size:41.7759px;line-height:1.25;font-family:'Amiri Quran';-inkscape-font-specification:'Amiri Quran';fill:#212529;fill-opacity:1;stroke-width:1.04439"
+           x="73.401321"
+           y="467.30792"
+           id="text921-9-3-4-8-6"><tspan
+             sodipodi:role="line"
+             id="tspan919-1-6-2-0-8"
+             x="73.401321"
+             y="467.30792"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:41.7759px;font-family:'Bai Jamjuree';-inkscape-font-specification:'Bai Jamjuree, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#212529;fill-opacity:1;stroke-width:1.04439">Das API</tspan></text>
+        <g
+           id="g1407">
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:13.7256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 114.59355,343.54641 -27.804918,31.23791 27.804918,31.23803"
+             id="path883-1-2-2-1-6-9-49-0" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:13.7256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 177.2965,343.54641 27.8049,31.23799 -27.8049,31.23803"
+             id="path883-2-4-28-9-0-1-6-93-6" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:13.7256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 130.82802,415.12001 30.23401,-80.6711"
+             id="path1216-0-97-3-6-5-1-6-8" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.93602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 114.59355,343.54641 -27.804918,31.23791 27.804918,31.23803"
+             id="path883-1-2-1-3-5-0-0-7" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.93602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 177.2965,343.54641 27.8049,31.23799 -27.8049,31.23803"
+             id="path883-2-4-28-94-2-4-4-5-9" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.93602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 130.82802,415.12001 30.23401,-80.6711"
+             id="path1216-0-97-7-0-7-2-0-0" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1806">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:33.8834;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4339-4-3"
+         width="158.20218"
+         height="158.20218"
+         x="300.13321"
+         y="321.66498" />
+      <g
+         id="g1415"
+         transform="translate(-2.3222813,1.2504883e-5)">
+        <path
+           style="display:inline;fill:none;stroke:#212529;stroke-width:15.938;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 345.15165,364.49283 -32.28672,36.27307 32.28672,36.2732"
+           id="path883-1-2-2-1-6-9-49-7-7" />
+        <path
+           style="display:inline;fill:none;stroke:#212529;stroke-width:15.938;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 417.96153,364.49283 32.2867,36.27316 -32.2867,36.2732"
+           id="path883-2-4-28-9-0-1-6-93-4-3" />
+        <path
+           style="display:inline;fill:none;stroke:#212529;stroke-width:15.938;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 364.00292,447.60319 35.10735,-93.67427"
+           id="path1216-0-97-3-6-5-1-6-3-2" />
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:5.73165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 345.15165,364.49283 -32.28672,36.27307 32.28672,36.2732"
+           id="path883-1-2-1-3-5-0-0-1-6" />
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:5.73165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 417.96153,364.49283 32.2867,36.27316 -32.2867,36.2732"
+           id="path883-2-4-28-94-2-4-4-5-4-5" />
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:5.73165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 364.00292,447.60319 35.10735,-93.67427"
+           id="path1216-0-97-7-0-7-2-0-6-2" />
+      </g>
+    </g>
+    <g
+       id="g4624">
+      <rect
+         style="fill:#212529;fill-opacity:1;stroke:#212529;stroke-width:61.2266;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4756-6-6"
+         width="445.87057"
+         height="56.870888"
+         x="573.58716"
+         y="81.512314" />
+      <g
+         id="g1567"
+         transform="translate(-12.699988)">
+        <text
+           xml:space="preserve"
+           style="font-size:79.7628px;line-height:1.25;font-family:'Amiri Quran';-inkscape-font-specification:'Amiri Quran';fill:#ffffff;fill-opacity:1;stroke-width:1.99407"
+           x="728.92126"
+           y="137.54567"
+           id="text921-9-3-4-4-2"><tspan
+             sodipodi:role="line"
+             id="tspan919-1-6-2-2-0"
+             x="728.92126"
+             y="137.54567"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:79.7628px;font-family:'Bai Jamjuree';-inkscape-font-specification:'Bai Jamjuree, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.99407">Das API</tspan></text>
+        <g
+           id="g1375">
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 623.54773,83.293799 -23.72463,26.653851 23.72463,26.65394"
+             id="path883-1-2-2-1-6-9-6-90" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 677.04922,83.293799 23.72462,26.653911 -23.72462,26.65395"
+             id="path883-2-4-28-9-0-1-6-4-9" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 637.39985,144.3642 663.19711,75.531321"
+             id="path1216-0-97-3-6-5-1-1-9" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 623.54773,83.293799 -23.72463,26.653851 23.72463,26.65394"
+             id="path883-1-2-1-3-5-0-28-4" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 677.04922,83.293799 23.72462,26.653911 -23.72462,26.65395"
+             id="path883-2-4-28-94-2-4-4-89-5" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 637.39985,144.3642 663.19711,75.531321"
+             id="path1216-0-97-7-0-7-2-2-10" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1769">
+      <rect
+         style="fill:#212529;fill-opacity:1;stroke:#212529;stroke-width:61.2266;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4756-7"
+         width="445.87057"
+         height="56.870888"
+         x="573.58716"
+         y="206.14272" />
+      <g
+         id="g1579"
+         transform="translate(0,-2.0667725e-5)">
+        <text
+           xml:space="preserve"
+           style="font-size:79.7628px;line-height:1.25;font-family:'Amiri Quran';-inkscape-font-specification:'Amiri Quran';fill:#ffffff;fill-opacity:1;stroke-width:1.99407"
+           x="637.61633"
+           y="262.17609"
+           id="text921-9-3-4-5-8-8"><tspan
+             sodipodi:role="line"
+             id="tspan919-1-6-2-5-8-6"
+             x="637.61633"
+             y="262.17609"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:79.7628px;font-family:'Bai Jamjuree';-inkscape-font-specification:'Bai Jamjuree, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.99407">Das API</tspan></text>
+        <g
+           id="g1389">
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 618.50671,207.92425 -23.72463,26.65388 23.72463,26.65395"
+             id="path883-1-2-2-1-6-9-2-8-4" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 618.50671,207.92425 -23.72463,26.65388 23.72463,26.65395"
+             id="path883-1-2-1-3-5-0-2-3-6" />
+        </g>
+        <g
+           id="g1381">
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 974.53818,207.92422 23.72463,26.65395 -23.72463,26.65391"
+             id="path883-2-4-28-9-0-1-6-9-3-6" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 934.88882,268.99462 25.79727,-68.83288"
+             id="path1216-0-97-3-6-5-1-0-3-0" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 974.53818,207.92422 23.72463,26.65395 -23.72463,26.65391"
+             id="path883-2-4-28-94-2-4-4-8-3-97" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 934.88882,268.99462 25.79727,-68.83288"
+             id="path1216-0-97-7-0-7-2-3-8-5" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1819">
+      <rect
+         style="fill:#212529;fill-opacity:1;stroke:#212529;stroke-width:33.8834;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4339-47-7"
+         width="158.20218"
+         height="158.20218"
+         x="600.77667"
+         y="321.66498" />
+      <g
+         id="g1590"
+         transform="translate(1.4925003e-5,3.1519482)">
+        <text
+           xml:space="preserve"
+           style="font-size:41.7758px;line-height:1.25;font-family:'Amiri Quran';-inkscape-font-specification:'Amiri Quran';fill:#ffffff;fill-opacity:1;stroke-width:1.04439"
+           x="607.33423"
+           y="467.30792"
+           id="text921-9-3-4-8-6-8"><tspan
+             sodipodi:role="line"
+             id="tspan919-1-6-2-0-8-5"
+             x="607.33423"
+             y="467.30792"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:41.7758px;font-family:'Bai Jamjuree';-inkscape-font-specification:'Bai Jamjuree, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.04439">Das API</tspan></text>
+        <g
+           id="g1439"
+           transform="translate(1.684052e-5)">
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:13.7256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 648.52627,343.54642 -27.80491,31.23791 27.80491,31.23803"
+             id="path883-1-2-2-1-6-9-49-0-3" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:13.7256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 711.22923,343.54642 27.8049,31.23799 -27.8049,31.23802"
+             id="path883-2-4-28-9-0-1-6-93-6-8" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:13.7256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 664.76075,415.12002 30.23401,-80.67111"
+             id="path1216-0-97-3-6-5-1-6-8-3" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.93602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 648.52627,343.54642 -27.80491,31.23791 27.80491,31.23803"
+             id="path883-1-2-1-3-5-0-0-7-7" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.93602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 711.22923,343.54642 27.8049,31.23799 -27.8049,31.23802"
+             id="path883-2-4-28-94-2-4-4-5-9-93" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.93602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 664.76075,415.12002 30.23401,-80.67111"
+             id="path1216-0-97-7-0-7-2-0-0-7" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1829">
+      <rect
+         style="fill:#212529;fill-opacity:1;stroke:#212529;stroke-width:33.8834;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4339-4-3-7"
+         width="158.20218"
+         height="158.20218"
+         x="834.06598"
+         y="321.66498" />
+      <g
+         id="g1447"
+         transform="translate(-2.3222515)">
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:15.938;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 879.08438,364.49285 -32.28671,36.27307 32.28671,36.2732"
+           id="path883-1-2-2-1-6-9-49-7-7-1" />
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:15.938;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 951.89426,364.49285 32.28671,36.27316 -32.28671,36.2732"
+           id="path883-2-4-28-9-0-1-6-93-4-3-9" />
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:15.938;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 897.93566,447.60321 35.10735,-93.67428"
+           id="path1216-0-97-3-6-5-1-6-3-2-0" />
+        <path
+           style="display:inline;fill:none;stroke:#212529;stroke-width:5.73165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 879.08438,364.49285 -32.28671,36.27307 32.28671,36.2732"
+           id="path883-1-2-1-3-5-0-0-1-6-98" />
+        <path
+           style="display:inline;fill:none;stroke:#212529;stroke-width:5.73165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 951.89426,364.49285 32.28671,36.27316 -32.28671,36.2732"
+           id="path883-2-4-28-94-2-4-4-5-4-5-8" />
+        <path
+           style="display:inline;fill:none;stroke:#212529;stroke-width:5.73165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 897.93566,447.60321 35.10735,-93.67428"
+           id="path1216-0-97-7-0-7-2-0-6-2-5" />
+      </g>
+    </g>
+    <g
+       id="g4650">
+      <rect
+         style="fill:#909294;fill-opacity:0.00973852;stroke:#909294;stroke-width:61.2265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+         id="rect4756-6-63"
+         width="445.87057"
+         height="56.870888"
+         x="39.654388"
+         y="583.51801" />
+      <g
+         id="g1612"
+         transform="translate(-12.700355,-1.5750732e-5)">
+        <text
+           xml:space="preserve"
+           style="font-size:79.763px;line-height:1.25;font-family:'Amiri Quran';-inkscape-font-specification:'Amiri Quran';fill:#212529;fill-opacity:1;stroke:none;stroke-width:1.99407;stroke-opacity:1"
+           x="194.98853"
+           y="639.55145"
+           id="text921-9-3-4-4-3"><tspan
+             sodipodi:role="line"
+             id="tspan919-1-6-2-2-4"
+             x="194.98853"
+             y="639.55145"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:79.763px;font-family:'Bai Jamjuree';-inkscape-font-specification:'Bai Jamjuree, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#212529;fill-opacity:1;stroke:none;stroke-width:1.99407;stroke-opacity:1">Das API</tspan></text>
+        <g
+           id="g1455"
+           transform="translate(0,2e-5)">
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 89.614987,585.29949 65.890363,611.95334 89.614987,638.6073"
+             id="path883-1-2-2-1-6-9-6-4" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 143.11648,585.29949 23.72462,26.65391 -23.72462,26.65395"
+             id="path883-2-4-28-9-0-1-6-4-3" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 103.46712,646.36986 25.79725,-68.83283"
+             id="path1216-0-97-3-6-5-1-1-97" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 89.614987,585.29949 65.890363,611.95334 89.614987,638.6073"
+             id="path883-1-2-1-3-5-0-28-2" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 143.11648,585.29949 23.72462,26.65391 -23.72462,26.65395"
+             id="path883-2-4-28-94-2-4-4-89-58" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 103.46712,646.36986 25.79725,-68.83283"
+             id="path1216-0-97-7-0-7-2-2-9" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1856">
+      <rect
+         style="fill:#909294;fill-opacity:0.00973852;stroke:#909294;stroke-width:61.2265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+         id="rect4756-2"
+         width="445.87057"
+         height="56.870888"
+         x="39.654388"
+         y="708.14844" />
+      <g
+         id="g1729">
+        <text
+           xml:space="preserve"
+           style="font-size:79.763px;line-height:1.25;font-family:'Amiri Quran';-inkscape-font-specification:'Amiri Quran';fill:#212529;fill-opacity:1;stroke-width:1.99407"
+           x="103.68358"
+           y="764.18188"
+           id="text921-9-3-4-5-8-4"><tspan
+             sodipodi:role="line"
+             id="tspan919-1-6-2-5-8-7"
+             x="103.68358"
+             y="764.18188"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:79.763px;font-family:'Bai Jamjuree';-inkscape-font-specification:'Bai Jamjuree, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#212529;fill-opacity:1;stroke-width:1.99407">Das API</tspan></text>
+        <g
+           id="g1459"
+           transform="translate(0,4e-5)">
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 84.573953,709.92993 -23.724625,26.65391 23.724625,26.6539"
+             id="path883-1-2-2-1-6-9-2-8-6" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 84.573953,709.92993 -23.724625,26.65391 23.724625,26.6539"
+             id="path883-1-2-1-3-5-0-2-3-5" />
+        </g>
+        <g
+           id="g1465"
+           transform="translate(0,1.5e-5)">
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 440.60542,709.92993 23.72462,26.65391 -23.72462,26.6539"
+             id="path883-2-4-28-9-0-1-6-9-3-7" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 400.95605,771.0003 25.79728,-68.83288"
+             id="path1216-0-97-3-6-5-1-0-3-1" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 440.60542,709.92993 23.72462,26.65391 -23.72462,26.6539"
+             id="path883-2-4-28-94-2-4-4-8-3-3" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 400.95605,771.0003 25.79728,-68.83288"
+             id="path1216-0-97-7-0-7-2-3-8-3" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1879">
+      <rect
+         style="fill:#909294;fill-opacity:0.00973852;stroke:#909294;stroke-width:33.8834;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+         id="rect4339-47-8"
+         width="158.20218"
+         height="158.20218"
+         x="66.843933"
+         y="823.67096" />
+      <g
+         id="g1717"
+         transform="translate(2.7198792e-6,3.1519485)">
+        <text
+           xml:space="preserve"
+           style="font-size:41.7759px;line-height:1.25;font-family:'Amiri Quran';-inkscape-font-specification:'Amiri Quran';fill:#212529;fill-opacity:1;stroke-width:1.04439"
+           x="73.401321"
+           y="969.3139"
+           id="text921-9-3-4-8-6-5"><tspan
+             sodipodi:role="line"
+             id="tspan919-1-6-2-0-8-1"
+             x="73.401321"
+             y="969.3139"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:41.7759px;font-family:'Bai Jamjuree';-inkscape-font-specification:'Bai Jamjuree, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#212529;fill-opacity:1;stroke-width:1.04439">Das API</tspan></text>
+        <g
+           id="g1481">
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:13.7256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 114.59355,845.55236 86.788639,876.7903 114.59355,908.02829"
+             id="path883-1-2-2-1-6-9-49-0-0" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:13.7256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 177.29651,845.55236 27.8049,31.23799 -27.8049,31.23804"
+             id="path883-2-4-28-9-0-1-6-93-6-87" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:13.7256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 130.82803,917.12596 30.23401,-80.67107"
+             id="path1216-0-97-3-6-5-1-6-8-6" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.93602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 114.59355,845.55236 86.788639,876.7903 114.59355,908.02829"
+             id="path883-1-2-1-3-5-0-0-7-3" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.93602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 177.29651,845.55236 27.8049,31.23799 -27.8049,31.23804"
+             id="path883-2-4-28-94-2-4-4-5-9-5" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.93602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 130.82803,917.12596 30.23401,-80.67107"
+             id="path1216-0-97-7-0-7-2-0-0-0" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1866">
+      <rect
+         style="fill:#909294;fill-opacity:0.00973852;stroke:#909294;stroke-width:33.8834;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+         id="rect4339-4-3-0"
+         width="158.20218"
+         height="158.20218"
+         x="300.13321"
+         y="823.67096" />
+      <g
+         id="g1706">
+        <path
+           style="display:inline;fill:none;stroke:#212529;stroke-width:15.938;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 342.82936,866.49886 -32.28671,36.27303 32.28671,36.27324"
+           id="path883-1-2-2-1-6-9-49-7-7-4" />
+        <path
+           style="display:inline;fill:none;stroke:#212529;stroke-width:15.938;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 415.63924,866.49886 32.28671,36.27313 -32.28671,36.27324"
+           id="path883-2-4-28-9-0-1-6-93-4-3-1" />
+        <path
+           style="display:inline;fill:none;stroke:#212529;stroke-width:15.938;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 361.68064,949.60918 35.10735,-93.67427"
+           id="path1216-0-97-3-6-5-1-6-3-2-1" />
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:5.73165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 342.82936,866.49886 -32.28671,36.27303 32.28671,36.27324"
+           id="path883-1-2-1-3-5-0-0-1-6-3" />
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:5.73165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 415.63924,866.49886 32.28671,36.27313 -32.28671,36.27324"
+           id="path883-2-4-28-94-2-4-4-5-4-5-5" />
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:5.73165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 361.68064,949.60918 35.10735,-93.67427"
+           id="path1216-0-97-7-0-7-2-0-6-2-9" />
+      </g>
+    </g>
+    <g
+       id="g4637">
+      <rect
+         style="fill:#909294;fill-opacity:0.00973852;stroke:#909294;stroke-width:61.2265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+         id="rect4756-6-6-4"
+         width="445.87057"
+         height="56.870888"
+         x="573.5871"
+         y="583.51801" />
+      <g
+         id="g1623"
+         transform="translate(-12.700044,-1.5750732e-5)">
+        <text
+           xml:space="preserve"
+           style="font-size:79.7628px;line-height:1.25;font-family:'Amiri Quran';-inkscape-font-specification:'Amiri Quran';fill:#ffffff;fill-opacity:1;stroke-width:1.99407"
+           x="728.92126"
+           y="639.55139"
+           id="text921-9-3-4-4-2-5"><tspan
+             sodipodi:role="line"
+             id="tspan919-1-6-2-2-0-0"
+             x="728.92126"
+             y="639.55139"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:79.7628px;font-family:'Bai Jamjuree';-inkscape-font-specification:'Bai Jamjuree, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.99407">Das API</tspan></text>
+        <g
+           id="g1533">
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 623.54771,585.29951 -23.72462,26.65384 23.72462,26.65395"
+             id="path883-1-2-2-1-6-9-6-90-3" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 677.04921,585.29951 23.72461,26.65391 -23.72461,26.65394"
+             id="path883-2-4-28-9-0-1-6-4-9-5" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 637.39984,646.3699 663.1971,577.53703"
+             id="path1216-0-97-3-6-5-1-1-9-6" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 623.54771,585.29951 -23.72462,26.65384 23.72462,26.65395"
+             id="path883-1-2-1-3-5-0-28-4-5" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 677.04921,585.29951 23.72461,26.65391 -23.72461,26.65394"
+             id="path883-2-4-28-94-2-4-4-89-5-9" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 637.39984,646.3699 663.1971,577.53703"
+             id="path1216-0-97-7-0-7-2-2-10-9" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1916">
+      <rect
+         style="fill:#909294;fill-opacity:0.00973852;stroke:#909294;stroke-width:61.2265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+         id="rect4756-7-7"
+         width="445.87057"
+         height="56.870888"
+         x="573.5871"
+         y="708.14844" />
+      <g
+         id="g1635"
+         transform="translate(-1.5356543e-5)">
+        <text
+           xml:space="preserve"
+           style="font-size:79.7628px;line-height:1.25;font-family:'Amiri Quran';-inkscape-font-specification:'Amiri Quran';fill:#ffffff;fill-opacity:1;stroke-width:1.99407"
+           x="637.61633"
+           y="764.18182"
+           id="text921-9-3-4-5-8-8-3"><tspan
+             sodipodi:role="line"
+             id="tspan919-1-6-2-5-8-6-7"
+             x="637.61633"
+             y="764.18182"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:79.7628px;font-family:'Bai Jamjuree';-inkscape-font-specification:'Bai Jamjuree, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.99407">Das API</tspan></text>
+        <g
+           id="g1525">
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 618.50667,709.92996 -23.72463,26.65388 23.72463,26.65394"
+             id="path883-1-2-2-1-6-9-2-8-4-1" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 618.50667,709.92996 -23.72463,26.65388 23.72463,26.65394"
+             id="path883-1-2-1-3-5-0-2-3-6-5" />
+        </g>
+        <g
+           id="g1521"
+           transform="translate(0,-1.5e-5)">
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 974.53813,709.92993 23.72463,26.65394 -23.72463,26.65391"
+             id="path883-2-4-28-9-0-1-6-9-3-6-6" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:11.7114;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 934.88877,771.00033 25.79727,-68.83288"
+             id="path1216-0-97-3-6-5-1-0-3-0-5" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 974.53813,709.92993 23.72463,26.65394 -23.72463,26.65391"
+             id="path883-2-4-28-94-2-4-4-8-3-97-0" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.21168;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 934.88877,771.00033 25.79727,-68.83288"
+             id="path1216-0-97-7-0-7-2-3-8-5-8" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1892">
+      <rect
+         style="fill:#909294;fill-opacity:0.00973852;stroke:#909294;stroke-width:33.8834;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+         id="rect4339-47-7-2"
+         width="158.20218"
+         height="158.20218"
+         x="600.77661"
+         y="823.67096" />
+      <g
+         id="g1646"
+         transform="translate(1.7978668e-5,3.151999)">
+        <text
+           xml:space="preserve"
+           style="font-size:41.7759px;line-height:1.25;font-family:'Amiri Quran';-inkscape-font-specification:'Amiri Quran';fill:#ffffff;fill-opacity:1;stroke-width:1.04439"
+           x="607.33398"
+           y="969.31384"
+           id="text921-9-3-4-8-6-8-2"><tspan
+             sodipodi:role="line"
+             id="tspan919-1-6-2-0-8-5-6"
+             x="607.33398"
+             y="969.31384"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:41.7759px;font-family:'Bai Jamjuree';-inkscape-font-specification:'Bai Jamjuree, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.04439">Das API</tspan></text>
+        <g
+           id="g1489"
+           transform="translate(-1.4194636e-5)">
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:13.7256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 648.52624,845.55236 -27.80491,31.23791 27.80491,31.23803"
+             id="path883-1-2-2-1-6-9-49-0-3-1" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:13.7256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 711.2292,845.55236 27.8049,31.23799 -27.8049,31.23802"
+             id="path883-2-4-28-9-0-1-6-93-6-8-0" />
+          <path
+             style="display:inline;fill:none;stroke:#ffffff;stroke-width:13.7256;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 664.76072,917.12596 30.23401,-80.67111"
+             id="path1216-0-97-3-6-5-1-6-8-3-4" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.93602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 648.52624,845.55236 -27.80491,31.23791 27.80491,31.23803"
+             id="path883-1-2-1-3-5-0-0-7-7-2" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.93602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 711.2292,845.55236 27.8049,31.23799 -27.8049,31.23802"
+             id="path883-2-4-28-94-2-4-4-5-9-93-7" />
+          <path
+             style="display:inline;fill:none;stroke:#212529;stroke-width:4.93602;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 664.76072,917.12596 30.23401,-80.67111"
+             id="path1216-0-97-7-0-7-2-0-0-7-4" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1902">
+      <rect
+         style="fill:#909294;fill-opacity:0.00973852;stroke:#909294;stroke-width:33.8834;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+         id="rect4339-4-3-7-3"
+         width="158.20218"
+         height="158.20218"
+         x="834.06592"
+         y="823.67096" />
+      <g
+         id="g1676">
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:15.938;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 876.76207,866.49883 -32.28671,36.27307 32.28671,36.2732"
+           id="path883-1-2-2-1-6-9-49-7-7-1-8" />
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:15.938;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 949.57195,866.49883 32.28671,36.27316 -32.28671,36.2732"
+           id="path883-2-4-28-9-0-1-6-93-4-3-9-0" />
+        <path
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:15.938;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 895.61335,949.60919 930.7207,855.93491"
+           id="path1216-0-97-3-6-5-1-6-3-2-0-3" />
+        <path
+           style="display:inline;fill:none;stroke:#212529;stroke-width:5.73165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 876.76207,866.49883 -32.28671,36.27307 32.28671,36.2732"
+           id="path883-1-2-1-3-5-0-0-1-6-98-7" />
+        <path
+           style="display:inline;fill:none;stroke:#212529;stroke-width:5.73165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 949.57195,866.49883 32.28671,36.27316 -32.28671,36.2732"
+           id="path883-2-4-28-94-2-4-4-5-4-5-8-0" />
+        <path
+           style="display:inline;fill:none;stroke:#212529;stroke-width:5.73165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 895.61335,949.60919 930.7207,855.93491"
+           id="path1216-0-97-7-0-7-2-0-6-2-5-0" />
+      </g>
+    </g>
+  </g>
+</svg>
